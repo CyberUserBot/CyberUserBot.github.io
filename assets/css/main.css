@@ -92,7 +92,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #ae00ff;
 	}
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 			-moz-animation: none !important;
